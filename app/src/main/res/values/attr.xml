@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpeedMeterLayout">
+        <attr name="titleText" format="string" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="speedTextSize" format="dimension" />
+        <attr name="speedTextColor" format="color" />
+        <attr name="bigCircleRadius" format="dimension" />
+        <attr name="bigCircleColor" format="color" />
+
+        <attr name="smallCircleRadius" format="dimension" />
+
+    </declare-styleable>
+</resources>
